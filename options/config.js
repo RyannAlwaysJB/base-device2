@@ -31,23 +31,23 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 global.thumb = fs.readFileSync('./image/thumbnail.jpg') // JGN DI UBAH!
-global.name = 'Aulia Rahman (Owner)', // GNTI NAMA LU!
-global.creator = 'LiaaCans BOT' // GANTI NAMA BOT LU BANH!
-global.owner = ['6285821676621'] // GNTI NOMOR LU!
-global.premium = ['6285821676621', '6281528965381']
+global.name = 'Ryan CODER ID (Owner)', // GNTI NAMA LU!
+global.creator = 'Ryan Coder' // GANTI NAMA BOT LU BANH!
+global.owner = ['6282252285143'] // GNTI NOMOR LU!
+global.premium = ['6282252285143', '62823604965321']
  // ADD PREM YG LU MAU BANH!!
 global.quotes = 'Kesempatan Anda Untuk Sukses Di Setiap Kondisi Selalu Dapat Diukur Oleh Seberapa Besar Kepercayaan Anda Pada Diri Sendiri' // Ganti Quotes, Tapi Trsrh Klian
-global.pulsa = ['081528965381'] // UBAH NOMOR YG AKTIF!
-global.botname = 'Created LiaaCans BOT' // GNTI NAMA BOT LU!
-global.packname = 'Nih Stikel Umtukmu' // TRSERAH MO GANTI AP!
-global.author = 'LiaaCans BOT' // GNTI NMA LU!
-global.fake = 'LIAACANS BOT VERIFIED' // GNTI NMA BOT LU BANH!
+global.pulsa = ['082350496532'] // UBAH NOMOR YG AKTIF!
+global.botname = 'Created By Ryan DCoder ID' // GNTI NAMA BOT LU!
+global.packname = 'METRO-BOT © 2022/2023' // TRSERAH MO GANTI AP!
+global.author = 'By : Ryann\nWa : 082252285143' // GNTI NMA LU!
+global.fake = 'RYAN DCoder VERIFIED' // GNTI NMA BOT LU BANH!
 // FITUR TOPUP OTOMATIS 
 global.hargadmff = 1261
 global.hargadmml = 1700
-global.merchant = 'M221101PAZJ5903YO' 
-global.secret = 'fcc9c3922337cd1443c071dbd3d356daebe4f908632e293241c31e8ac014c46f'
-global.signature = 'ad488c46183fa32611f547ffbc5e4e10'
+global.merchant = 'M221206LZXP1893FR' 
+global.secret = '734d13bd833a177a757dbf43000dc5c5f7c58099a12c66ba924fd5e1e14d5db2'
+global.signature = '505fced95ee0a78c00371db103a10bd3'
 //CARA AKTIFIN:
 //1. DAFTAR DI APIGAMES.UD
 //2. AMBIL MERCHANT ID DAN SECRET KEY
@@ -71,7 +71,7 @@ endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
 premium: "Unlimited",
-free: 10
+free: 20
 }
 
 let file = require.resolve(__filename)
